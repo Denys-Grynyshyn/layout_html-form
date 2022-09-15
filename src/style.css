@@ -1,5 +1,5 @@
-/* styles go here */
-.input {
+.label {
+  display: block;
   margin-bottom: 10px;
 }
 
